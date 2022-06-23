@@ -1,0 +1,25 @@
+# Project exclude paths
+/.idea/
+/.gradle/
+/Cinema Room Manager/Arrangement/task/build/
+/Cinema Room Manager/Arrangement/task/out/
+/Cinema Room Manager/Arrangement/task/out/production/classes/
+/Cinema Room Manager/Errors/task/build/
+/Cinema Room Manager/Errors/task/out/
+/Cinema Room Manager/Errors/task/out/production/classes/
+/Cinema Room Manager/Menu, please/task/build/
+/Cinema Room Manager/Menu, please/task/out/
+/Cinema Room Manager/Menu, please/task/out/production/classes/
+/Cinema Room Manager/Sold/task/build/
+/Cinema Room Manager/Sold/task/out/
+/Cinema Room Manager/Sold/task/out/production/classes/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Cinema Room Manager/Tickets/task/build/
+/Cinema Room Manager/Tickets/task/out/
+/Cinema Room Manager/Tickets/task/out/production/classes/
+/Topics/Multidimensional array/Find the corners/out/
+/Topics/Multidimensional array/Find the corners/out/production/classes/
+/Topics/Multidimensional array/Rotate a rectangle array/out/
+/Topics/Multidimensional array/Rotate a rectangle array/out/production/classes/
